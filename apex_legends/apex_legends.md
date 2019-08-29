@@ -1,4 +1,6 @@
-# First, import the packages needed to conduct the analysis.
+# Introduction
+
+First, import the packages needed to conduct the analysis.
 
 ```{r}
 library(rvest)
@@ -10,7 +12,7 @@ library(ggplot2)
 ```
 
 
-# Next, using the 'rvest' package, import the HTML script from my profile on 'DreamTeam.gg.' 
+Next, using the 'rvest' package, import the HTML script from my profile on 'DreamTeam.gg.' 
 
 ```{r}
 apex_page <- 'https://dreamteam.gg/apex/profile-matches/ps4/b_dubya91'
