@@ -9,3 +9,10 @@ This repository contains projects that involve cleaning, visualizing, modeling a
 ## Visualization
 
 ## Modeling
+
+
+```
+if (isAwesome){
+  return true
+}
+```
